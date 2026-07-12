@@ -1,4 +1,3 @@
-# DSA.py
 # DSA Notes (Python)
 
 Welcome to my **Data Structures & Algorithms (DSA)** notes repository.
