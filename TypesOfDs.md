@@ -4,7 +4,8 @@
 
 A **Data Structure** is a way of **organizing, storing, and managing data** so that operations like **accessing, searching, inserting, deleting, and updating** can be performed efficiently.
 # or
-> "A data structure is a specialized way of organizing data in memory to optimize operations like access, insertion, deletion, searching, and traversal. Choosing the right data structure directly impacts an algorithm's time and space complexity."
+> "A data structure is a specialized way of organizing data in memory to optimize operations like access, insertion, deletion, searching, and traversal. Choosing the right data structure directly impacts an algorithm's time and space complexity."git push -u origin main
+
 ---
 
 # Data Structures Flowchart
