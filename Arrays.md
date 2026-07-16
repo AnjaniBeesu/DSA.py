@@ -890,7 +890,7 @@ O(1)
 
 ## Disadvantages
 
-- Fixed size (in many languages)
+- Fixed size 
 - Expensive insertion and deletion
 - Requires contiguous memory
 - Linear search in unsorted arrays
