@@ -11,7 +11,7 @@ This repository contains my personal DSA notes written while learning and practi
 
 * Data Structures
 
-  * Arrays
+  * Arrays (done)
   * Strings
   * Linked Lists
   * Stacks
@@ -36,9 +36,9 @@ This repository contains my personal DSA notes written while learning and practi
   * Graph Algorithms
 * Complexity Analysis
 
-  * Big O Notation
-  * Time Complexity
-  * Space Complexity
+  * Big O Notation (done)
+  * Time Complexity (done)
+  * Space Complexity (in progress)
 
 ## Purpose
 
