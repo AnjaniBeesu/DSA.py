@@ -11,7 +11,7 @@ This repository contains my personal DSA notes written while learning and practi
 
 * Data Structures
 
-  * Arrays (done)
+  * Arrays (theory done , currently adding leetcode problems )
   * Strings
   * Linked Lists
   * Stacks
