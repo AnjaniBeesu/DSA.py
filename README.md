@@ -1,10 +1,10 @@
-# DSA Notes (Python)
+# DSA Notes (JAVA)
 
 Welcome to my **Data Structures & Algorithms (DSA)** notes repository.
 
 ## About
 
-This repository contains my personal DSA notes written while learning and practicing **Python**. The goal is to build a strong understanding of fundamental concepts and prepare for coding interviews.
+This repository contains my personal DSA notes written while learning and practicing **Java**. The goal is to build a strong understanding of fundamental concepts and prepare for coding interviews.
 
 
 ## Topics Covered
@@ -46,6 +46,6 @@ This repository serves as my learning journal and interview preparation resource
 
 ---
 
-**Language:** Python 
+**Language:** Java
 
 **Status:** Continuously updated as I learn and solve more problems.
