@@ -21,7 +21,7 @@ A **Data Structure** is a way of **organizing, storing, and managing data** so t
       │          │          │            │                   │
     Integer     Float      Char       Linear DS        Non-Linear DS
       │                       │            │                   │
-    Boolean                  etc.   ┌─────┼─────┐        ┌────┴────┐
+    Boolean                  string , etc.   ┌─────┼─────┐        ┌────┴────┐
                                     │     │     │        │         │
                                   Array Linked  Stack   Tree     Graph
                                          List    Queue
