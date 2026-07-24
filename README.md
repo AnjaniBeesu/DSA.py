@@ -4,14 +4,14 @@ Welcome to my **Data Structures & Algorithms (DSA)** notes repository.
 
 ## About
 
-This repository contains my personal DSA notes written while learning and practicing **Java**. The goal is to build a strong understanding of fundamental concepts and prepare for coding interviews.
+This repository contains my personal DSA notes written while learning and practicing **Java**. 
 
 
 ## Topics Covered
 
 * Data Structures
 
-  * Arrays (theory done , currently adding leetcode problems )
+  * Arrays (theory done , currently adding leetcode problems after i complete the top ones in leet code )
   * Strings
   * Linked Lists
   * Stacks
